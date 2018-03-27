@@ -1,4 +1,4 @@
-# IDB Reproducibility Training
+# IDB Reproducibility Training / modified by Leticia D. on March 27, 2018
 by [Garret Christensen](http://www.ocf.berkeley.edu/~garret)
 
 UC Berkeley ([Berkeley Initative for Transparency in the Social Sciences](http://www.bitss.org), [Berkeley Institute for Data Science](http://bids.berkeley.edu))
